@@ -1,0 +1,35 @@
+Encryption is the conversion of data into a form, called a ciphertext, that cannot be easily understood by unauthorized 
+people. Decryption is the process of converting encrypted data back into its original form, so it can be understood.
+
+The use of encryption/decryption is as old as the art of communication. In wartime, a cipher, often incorrectly called a 
+code, can be employed to keep the enemy from obtaining the contents of transmissions. (Technically, a code is a means of 
+representing a signal without the intent of keeping it secret; examples are Morse code and 
+ASCII.) Simple ciphers include the substitution of letters for numbers, the rotation of letters in the alphabet, and the 
+"scrambling" of voice signals by inverting the sideband frequencies. More complex ciphers work according to sophisticated
+ computer algorithms that rearrange the data bits in digital signals.
+
+In order to easily recover the contents of an encrypted signal, the correct decryption key is required. The key is an 
+algorithm that undoes the work of the encryption algorithm. Alternatively, a computer can be used in an attempt to break
+ the cipher. The more complex the encryption algorithm, the more difficult it becomes to eavesdrop on the communications
+ without access to the key.
+
+Encryption/decryption is especially important in wireless communications. This is because wireless circuits are easier
+ to tap than their hard-wired counterparts. Nevertheless, encryption/decryption is a good idea when carrying out any 
+kind of sensitive transaction, such as a credit-card purchase online, or the discussion of a company secret between 
+different departments in the organization. The stronger the cipher -- that is, the harder it is for unauthorized people
+ to break it -- the better, in general. However, as the strength of encryption/decryption increases, so does the cost.
+
+In recent years, a controversy has arisen over so-called strong encryption. This refers to ciphers that are essentially 
+unbreakable without the decryption keys. While most companies and their customers view it as a means of keeping secrets 
+and minimizing fraud, some governments view strong encryption as a potential vehicle by which terrorists might evade 
+authorities. These governments, including that of the United States, want to set up a key-escrow arrangement. 
+This means everyone who uses a cipher would be required to provide the government with a copy of the key.
+ Decryption keys would be stored in a supposedly secure place, used only by authorities, and used only if
+backed up by a court order. Opponents of this scheme argue that criminals could hack into the key-escrow 
+database and illegally obtain, steal, or alter the keys. Supporters claim that while this is a possibility,
+ implementing the key escrow scheme would be better than doing nothing to prevent criminals from freely using
+ encryption/decryption.
+
+Related glossary terms: data key, network encryption (network layer or network level encryption), block cipher,
+ one-time pad, quantum cryptography, Escrowed Encryption Standard (EES), Quiz: Cryptography, stream cipher, output 
+feedback (OFB), Data Encryption Standard (DES)

@@ -1,0 +1,20 @@
+A computer network, often simply referred to as a network, is a collection of computers and other hardware components interconnected by communication channels that allow sharing of resources and information.[1] Where at least one process in one device is able to send/receive data 
+to/from at least one process residing in a remote device, then the two devices are said to 
+be in a network. Simply, more than one computer interconnected through a communication 
+medium for information interchange is called a computer network.
+
+Networks may be classified according to a wide variety of characteristics, such as the 
+medium used to transport the data, communications protocol used, scale, topology, and 
+organizational scope.
+
+Communications protocols define the rules and data formats for exchanging information 
+in a computer network, and provide the basis for network programming. Well-known 
+communications protocols include Ethernet, a hardware and link layer standard that is 
+ubiquitous in local area networks, and the Internet protocol suite, which defines a set
+ of protocols for internetworking, i.e. for data communication between multiple networks,
+ as well as host-to-host data transfer, and application-specific data transmission formats.
+
+
+Computer networking is sometimes considered a sub-discipline of electrical engineering,
+ telecommunications, computer science, information technology or computer engineering, 
+since it relies upon the theoretical and practical application of these disciplines.

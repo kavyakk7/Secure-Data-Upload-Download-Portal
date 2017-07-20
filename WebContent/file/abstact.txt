@@ -1,0 +1,5 @@
+The data-protection-as-a-service cloud platform
+architecture dramatically reduces the
+per-application development effort required
+to offer data protection while still allowing
+rapid development and maintenance.

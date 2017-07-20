@@ -1,0 +1,18 @@
+What Is Java?
+
+Java is a computer programming language. It enables programmers to write computer 
+instructions using English based commands, instead of having to write in numeric codes.
+It’s known as a “high-level” language because it can be read and written easily by humans.
+Like English, Java has a set of rules that determine how the instructions are written.
+These rules are known as its “syntax”. Once a program has been written, the high-level
+instructions are translated into numeric codes that computers can understand and execute.
+
+Who Created Java?
+
+In the early nineties, Java was created by a team led by James Gosling for 
+Sun Microsystems. It was originally designed for use on digital mobile devices, 
+such as cell phones. However, when Java 1.0 was released to the public in 1996,
+its main focus had shifted to use on the Internet. It provided more interactivity 
+with users by giving developers a way to produce animated webpages . Over the years
+it has evolved as a successful language for use both on and off the Internet. A decade 
+later, it’s still an extremely popular language with over 6.5million developers worldwide.
